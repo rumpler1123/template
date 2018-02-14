@@ -1,2 +1,0 @@
-# templates
-Bootstrap temaplate
